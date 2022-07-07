@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM.Dapper", "ORM.Dapper\ORM.Dapper.csproj", "{A3FF4B6D-D7B0-4E9F-AD28-BFC8282FE899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries", "Libraries\Libraries.csproj", "{F8447B24-22EC-4B5A-A491-C466A17BEDFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{33448B24-EDAC-4CFD-939F-B1473275F5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FF4B6D-D7B0-4E9F-AD28-BFC8282FE899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FF4B6D-D7B0-4E9F-AD28-BFC8282FE899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FF4B6D-D7B0-4E9F-AD28-BFC8282FE899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FF4B6D-D7B0-4E9F-AD28-BFC8282FE899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8447B24-22EC-4B5A-A491-C466A17BEDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8447B24-22EC-4B5A-A491-C466A17BEDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8447B24-22EC-4B5A-A491-C466A17BEDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8447B24-22EC-4B5A-A491-C466A17BEDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33448B24-EDAC-4CFD-939F-B1473275F5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33448B24-EDAC-4CFD-939F-B1473275F5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33448B24-EDAC-4CFD-939F-B1473275F5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33448B24-EDAC-4CFD-939F-B1473275F5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD34D56-DA4E-4935-8DC0-260A249AA73D}
+	EndGlobalSection
+EndGlobal
